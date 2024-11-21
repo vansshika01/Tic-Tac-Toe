@@ -2,6 +2,7 @@
 Welcome to Tic Tac Toe, a simple and fun game built with HTML, CSS, and JavaScript! 🎉 The game features a classic 3x3 grid where two players take turns to mark their symbols ("X" or "O"). The objective? Be the first to line up three of your marks—horizontally, vertically, or diagonally! 🤩
 
 🚀 How to Play
+
 **1. Starting the Game**
 The game starts as soon as you open the page! Players alternate placing their mark ("X" or "O") in one of the nine available squares on the grid. 😎
 
